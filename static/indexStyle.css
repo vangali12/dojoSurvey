@@ -1,0 +1,22 @@
+* {
+	margin: auto 0px;
+	width: 900px;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.wrapper{
+	display: inline-block;
+}
+
+select {
+	width: 20%;
+}
+
+input {
+	width: 15%;
+}
+
+textarea {
+	width: 40%;
+}
